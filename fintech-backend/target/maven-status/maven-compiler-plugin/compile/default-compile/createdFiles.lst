@@ -1,0 +1,16 @@
+com\fintech\repository\UserRepository.class
+com\fintech\service\WalletService.class
+com\fintech\service\UserService.class
+com\fintech\controller\ExpenseController.class
+com\fintech\model\Wallet.class
+com\fintech\exception\ResourceNotFoundException.class
+com\fintech\controller\HomeController.class
+com\fintech\controller\UserController.class
+com\fintech\service\ExpenseService.class
+com\fintech\FintechBackendApplication.class
+com\fintech\model\Expense.class
+com\fintech\model\ExpenseType.class
+com\fintech\controller\WalletController.class
+com\fintech\model\User.class
+com\fintech\repository\WalletRepository.class
+com\fintech\repository\ExpenseRepository.class
